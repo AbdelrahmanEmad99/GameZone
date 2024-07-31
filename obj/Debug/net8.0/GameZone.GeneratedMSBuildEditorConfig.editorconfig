@@ -11,7 +11,8 @@ build_property.RootNamespace = GameZone
 build_property.RootNamespace = GameZone
 build_property.ProjectDir = C:\Users\user\Desktop\GameZone\
 build_property.EnableComHosting = 
-build_property.RazorLangVersion = 7.0
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\GameZone
@@ -19,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 
 [C:/Users/user/Desktop/GameZone/Views/Games/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/GameZone/Views/Games/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/GameZone/Views/Games/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FtZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/user/Desktop/GameZone/Views/Games/Index.cshtml]

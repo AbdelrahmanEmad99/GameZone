@@ -11,7 +11,7 @@
         public Category Category { get; set; } = default!;
         // many to many relation
 
-        public ICollection<GameDevice> Device { get; set; } =new List<GameDevice>();
+        public ICollection<GameDevice> Devices { get; set; } =new List<GameDevice>();
 
     }
 }

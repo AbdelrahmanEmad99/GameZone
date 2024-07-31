@@ -402,9 +402,9 @@ C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\scopedcss\bundle\GameZone.styles.css
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\scopedcss\projectbundle\GameZone.bundle.scp.css
-C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\GameZone.csproj.CopyComplete
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\GameZone.dll
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\refint\GameZone.dll
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\GameZone.pdb
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\GameZone.genruntimeconfig.cache
 C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\ref\GameZone.dll
+C:\Users\user\Desktop\GameZone\obj\Debug\net8.0\GameZone.csproj.Up2Date
