@@ -1,5 +1,5 @@
 # Game Zone Project
-###### This repository contains the source code for the Game Zone project, a comprehensive MVC web application built using ASP.NET Core. The application is designed to manage a collection of games, including their categories and associated devices. The project showcases the use of various features and best practices in web development, such as the MVC architecture, Entity Framework Core for data access, and robust design patterns.
+##### This repository contains the source code for the Game Zone project, a comprehensive MVC web application built using ASP.NET Core. The application is designed to manage a collection of games, including their categories and associated devices. The project showcases the use of various features and best practices in web development, such as the MVC architecture, Entity Framework Core for data access, and robust design patterns.
 # Features
 * #### MVC Architecture: Implemented using ASP.NET Core MVC.
 * #### CRUD Operations: Create, Read, Update, and Delete operations using Entity Framework Core.
