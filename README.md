@@ -7,3 +7,5 @@ This repository contains the source code for the Game Zone project, a comprehens
 * #### File Upload: Support for uploading game-related files.
 * #### Validation: Client-side and server-side validation to ensure data integrity.
 * #### Responsive Design: Utilizes HTML, CSS, and Bootstrap for a responsive user interface.
+# Tools & Technologies
+* #### C# - ASP.NET Core - MVC - SQL Server - Entity Framework Core - LINQ - Dependency Injection - HTML - CSS - Bootstrap
